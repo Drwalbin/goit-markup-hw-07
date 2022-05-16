@@ -84,7 +84,7 @@ a {
 }
 
 .section__footer {
-  max-width: 1600px;
+  width: 1600px;
   margin: 0 auto;
   padding-top: 60px;
   padding-bottom: 60px;
