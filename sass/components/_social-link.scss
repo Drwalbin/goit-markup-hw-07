@@ -26,6 +26,10 @@
     }
     &__email {
       margin-right: 50px;
+      &:hover {
+          color: var(--brand-color);
+          transition-duration: 250ms;
+        }
     }
   }
   &__customer {
@@ -46,3 +50,4 @@
     transition-duration: 250ms;
   }
 }
+
